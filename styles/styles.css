@@ -1,0 +1,27 @@
+/* common shared styles */
+.header{
+    background-image: url('../images/banner/banner1.png');
+    background-repeat: no-repeat;
+    background-position: left ;
+    background-size: 700px;
+    position: 1600 808;
+}
+.banner-right{
+    text-align: right;
+    padding: 60px 60px 0 150px;
+    border: 800px;
+}
+.banner-r{
+    font-size: 20px;
+}
+.banner-u{
+    font-size: 10px;
+}
+.banner-p{
+    color: white;
+    background: #FD6E0A;
+    border: 0;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 10px;
+}
